@@ -50,7 +50,7 @@ twitter_username: katieglive
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/prof_pic.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Katie Gleason. I'm a journalist living in Lansing, Michigan, interested in reporting on local and statewide news. My areas of expertise are <mark>Local Politics</mark> and <mark>Local Culture</mark>. 
 
