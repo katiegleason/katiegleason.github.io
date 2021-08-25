@@ -110,6 +110,7 @@ content:
   - title: Selected Writing Samples # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      
       - layout: left
         title: News Copy
         link:  
@@ -125,6 +126,7 @@ content:
           News read copy for 1320 WILS
         description: | # this will include new lines to allow paragraphs
           These pages (click the microphone icons at left!) include scripts of my most recent work for 1320 WILS reporting on local news and politics. These scripts are **not intended to be read as news articles**; they are copy for radio. However, I include them because I was in charge of researching, writing, and recording the stories from beginning to end. 
+      
       - layout: left
         title: M897 Artists Update
         link: https://www.lcc.edu/radio/m897/archive/M897_Artist_Update_2020.aspx 
@@ -137,15 +139,15 @@ content:
           End of the Decade Brings New Beginnings and New Identities
         description: | # this will include new lines to allow paragraphs
           End of the decade update of artists formerly featured on LCC radio spotlight. I followed up with previously featured artists by emailing and interviewing mulitple bands over the course of several weeks to sum up the repsonses in this comprehensive wrap-up piece. 
-          - layout: left
+      
+      - layout: left
         title: Conspicuous Bystanders
         link: https://www.lcc.edu/radio/m897/archive/Conspicuous_Bystanders.aspx
         link_text: Link
         additional_links:
           - title: Permanent Backup
             icon: far fa-newspaper
-            url: https://katiegleason.github.io/
-          
+            url: https://katiegleason.github.io/    
         quote: >
           Conspicuous Bystanders Founding the Genre of "Conspicuous Rock"
         description: | # this will include new lines to allow paragraphs
