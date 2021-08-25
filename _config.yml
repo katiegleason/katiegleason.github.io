@@ -20,24 +20,24 @@ darkmode: false
 
 # Social links
 twitter_username: katieglive
-github_username:  katiegleason
-stackoverflow_username: 
-dribbble_username:
-facebook_username:
-flickr_username:
-instagram_username:
-linkedin_username:
-xing_username:
-pinterest_username:
-youtube_username:
-googleplus_username: 
-orcid_username:
+# github_username:  katiegleason
+# stackoverflow_username: 
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+# instagram_username:
+# linkedin_username:
+# xing_username:
+# pinterest_username:
+# youtube_username:
+# googleplus_username: 
+# orcid_username:
 
 # Additional icon links
-additional_links:
-  #- title: Link name
-  #icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  #url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,13 +52,12 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  My name is Katie Gleason. I'm a journalist living in Lansing, Michigan, interested in reporting on local and statewide news. My areas of expertise are <mark>Local Politics</mark> and <mark>Local Culture</mark>. 
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I have experience in multiple news modalities, but especially in
+  <mark>Radio</mark>
+  <mark>Social Media</mark>
+  <mark>Blogs</mark>
 
 content:
   - title: Projects # Title for the section
@@ -115,7 +114,7 @@ footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+ remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
