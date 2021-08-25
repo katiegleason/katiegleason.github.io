@@ -58,8 +58,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   I have experience in multiple news modalities, but especially:
   <mark>Radio</mark>
-  <mark>Social Media</mark>
-  <mark>Blogs</mark>
+  <mark>Social Media</mark> 
+  <mark>Blogs</mark>.
+  I'm looking to grow my experience and branch out into new formats.
 
 content:
   - title: Experience
@@ -110,7 +111,6 @@ content:
   - title: Selected Writing Samples # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      
       - layout: left
         title: News Copy
         link:  
