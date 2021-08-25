@@ -107,10 +107,37 @@ content:
           I was involved in the college radio station until its untimely closure due to the COVID-19 pandemic.
           
           I also got the chance to take some elective coursework in topics as diverse as <mark>Mythology</mark> and <mark>Early Childhood Education</mark>!
-  - title: Writing Samples # Title for the section
+  - title: Selected Writing Samples # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: News Copy
+        link:  
+        link_text: 
+        additional_links:
+          - title: Read 1
+            icon: fa-solid fa-microphone-lines
+            url: https://katiegleason.github.io/
+          - title: Read 2
+            icon: fa-solid fa-microphone-lines
+            url: https://katiegleason.github.io/
+        quote: >
+          News read copy for 1320 WILS
+        description: | # this will include new lines to allow paragraphs
+          These pages (click the microphone icons at left!) include scripts of my most recent work for 1320 WILS reporting on local news and politics. These scripts are **not intended to be read as news articles**; they are copy for radio. However, I include them because I was in charge of researching, writing, and recording the stories from beginning to end. 
+      - layout: left
+        title: M897 Artists Update
+        link: https://www.lcc.edu/radio/m897/archive/M897_Artist_Update_2020.aspx 
+        link_text: Link
+        additional_links:
+          - title: Permanent Backup
+            icon: far fa-newspaper
+            url: https://katiegleason.github.io/
+        quote: >
+          End of the Decade Brings New Beginnings and New Identities
+        description: | # this will include new lines to allow paragraphs
+          End of the decade update of artists formerly featured on LCC radio spotlight. I followed up with previously featured artists by emailing and interviewing mulitple bands over the course of several weeks to sum up the repsonses in this comprehensive wrap-up piece. 
+          - layout: left
         title: Conspicuous Bystanders
         link: https://www.lcc.edu/radio/m897/archive/Conspicuous_Bystanders.aspx
         link_text: Link
