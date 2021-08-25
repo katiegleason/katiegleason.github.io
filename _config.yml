@@ -52,14 +52,46 @@ twitter_username: katieglive
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/prof_pic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Katie Gleason. I'm a journalist living in Lansing, Michigan, interested in reporting on local and statewide news. My areas of expertise are <mark>Local Politics</mark> and <mark>Local Culture</mark>. 
+  My name is Katie Gleason. I'm a journalist living in Lansing, Michigan, interested in reporting on local and statewide news. My areas of expertise are: 
+    <mark>Local Politics</mark> 
+    <mark>Local Culture</mark>. 
 
-  I have experience in multiple news modalities, but especially in
+  I have experience in multiple news modalities, but especially:
   <mark>Radio</mark>
   <mark>Social Media</mark>
   <mark>Blogs</mark>
 
 content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: MacDonald Broadcasting
+        sub_title: Radio Host
+        caption: November 2020 - Present
+        link: 
+        quote: >
+          Local AM radio station.
+        description: | # this will include new lines to allow paragraphs
+          Weekday afternoon and weekend morning news anchor for **Lansing 1320 WILS**. Wrote and recorded hourly news segments of up to 90 seconds on: 
+            <mark>Local Politics</mark>
+            <mark>State Politics</mark> 
+            <mark>Public Health</mark> 
+            <mark>COVID-19</mark>
+            <mark>Local Interest</mark> and more.
+          
+          On January 6, 2021, I covered the United States Capitol Attack in real time. 
+          
+      - layout: left
+        title: LCC Radio
+        sub_title: Music Journalist
+        caption: July 2019 - March 2020
+        link: 
+        quote: >
+          College news radio station
+        description: | # this will include new lines to allow paragraphs
+          Music correspondant and advertisement reads for LCC Radio. Interviewed local bands across genres for publication on the radio station website.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -78,18 +110,6 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: left
-        title: McaDonald Broadcasting
-        sub_title: Radio Host
-        caption: November 2020 - Present
-        link: 
-        quote: >
-          Local AM radio station.
-        description: | # this will include new lines to allow paragraphs
-          Weekday afternoon and weekend morning news anchor for **Lansing 1320 WILS**. Wrote and recorded news segments up to 90 segments on topics like <mark>state politics</mark> <mark>public health</mark> <mark>COVID-19</mark> and <mark>local interest</mark>.
   - title: Education
     layout: list
     content:
