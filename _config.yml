@@ -113,7 +113,12 @@ content:
       - layout: left
         title: Conspicuous Bystanders
         link: https://www.lcc.edu/radio/m897/archive/Conspicuous_Bystanders.aspx
-        link_text: Link Text
+        link_text: Link
+        additional_links:
+          - title: Permanent Backup
+            icon: far fa-newspaper
+            url: https://katiegleason.github.io/
+          
         quote: >
           Conspicuous Bystanders Founding the Genre of "Conspicuous Rock"
         description: | # this will include new lines to allow paragraphs
