@@ -81,15 +81,15 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: left
+        title: McaDonald Broadcasting
+        sub_title: Radio Host
+        caption: November 2020 - Present
+        link: 
         quote: >
-          Short description of the company (optional)
+          Local AM radio station.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Weekday afternoon and weekend morning news anchor for **Lansing 1320 WILS**. Wrote and recorded news segments up to 90 segments on topics like <mark>state politics</mark> <mark>public health</mark> <mark>COVID-19</mark> and <mark>local interest</mark>.
   - title: Education
     layout: list
     content:
