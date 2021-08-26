@@ -103,14 +103,15 @@ content:
     content:
       - layout: left
         title: Lansing Community College
-        sub_title: AA Digital Media and Cinematography
-        caption: 2018 - Present
+        sub_title: Digital Media Coursework
+        caption: 2018 - 2020
         quote: 
         description: | # this will include new lines to allow paragraphs
           While at LCC, I took relevant coursework in: 
             <mark>Digital Cinematography</mark>
             <mark>Video Editing</mark>
-            <mark>Audio Editing</mark>. 
+            <mark>Audio Editing</mark> and
+            <mark>State and Local Government</mark>.
           I was involved in the college radio station until its untimely closure due to the COVID-19 pandemic.
           
           I also got the chance to take some elective coursework in topics as diverse as <mark>Mythology</mark> and <mark>Early Childhood Education</mark>!
