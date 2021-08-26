@@ -120,8 +120,8 @@ content:
     content:
       - layout: left
         title: News Copy
-        link: Dunbar Interview Link
-        link_text: https://katiegleason.github.io/writing-samples/2021-07-13-dunbar/
+        link: https://katiegleason.github.io/writing-samples/2021-07-13-dunbar/
+        link_text: Dunbar Interview Link
         additional_links:
           - title: Read 1
             icon: fas fa-microphone
