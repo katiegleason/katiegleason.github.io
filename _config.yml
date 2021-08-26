@@ -119,8 +119,8 @@ content:
     content:
       - layout: left
         title: News Copy
-        link:  
-        link_text: 
+        link: Dunbar Interview Link
+        link_text: https://katiegleason.github.io/writing-samples/2021-07-13-dunbar/
         additional_links:
           - title: Read 1
             icon: fas fa-microphone
@@ -131,12 +131,25 @@ content:
         quote: >
           News read copy for 1320 WILS
         description: | # this will include new lines to allow paragraphs
-          These pages (click the microphone icons!) include scripts of my most recent work for 1320 WILS reporting on local news and politics. These scripts are **not intended to be read as news articles**; they are copy for radio. However, I include them because I was in charge of researching, writing, and recording the stories from beginning to end. 
+          **Click microphone icons for additional wraps**. These pages include scripts of my most recent work for 1320 WILS reporting on local news and politics. These scripts are **not intended to be read as news articles**; they are copy for radio. However, I include them because I was in charge of researching, writing, and recording the stories from beginning to end. 
+    
+      - layout: left
+        title: Brett Mitchell
+        link: https://katiegleason.github.io/writing-samples/2020-03-13-brett-mitchell/
+        link_text: Personal Host Link
+        additional_links:
+          - title: Same Link
+            icon: far fa-newspaper
+            url: https://katiegleason.github.io/writing-samples/2020-03-13-brett-mitchell/
+        quote: >
+          Brett Mitchell is Stitching Michigan’s Music Back Together 
+        description: | # this will include new lines to allow paragraphs
+          Report for LCC Radio on local Lansing artist Brett Mitchell. Brett is an old family contact and I was able to interview him as a local musician for LCC Radio. However, the article was never published due to the station's closure during COVID-19.
       
       - layout: left
         title: M897 Artists Update
         link: https://www.lcc.edu/radio/m897/archive/M897_Artist_Update_2020.aspx 
-        link_text: Link
+        link_text: LCC Site Link
         additional_links:
           - title: Permanent Backup
             icon: far fa-newspaper
@@ -144,12 +157,12 @@ content:
         quote: >
           End of the Decade Brings New Beginnings and New Identities
         description: | # this will include new lines to allow paragraphs
-          End of the decade update of artists formerly featured on LCC radio spotlight. I followed up with previously featured artists by emailing and interviewing mulitple bands over the course of several weeks to sum up the repsonses in this comprehensive wrap-up piece. 
+          **Click newspaper icon for self-hosted link.** End of the decade update of artists formerly featured on LCC radio spotlight. I followed up with previously featured artists by emailing and interviewing mulitple bands over the course of several weeks to sum up the repsonses in this comprehensive wrap-up piece. 
       
       - layout: left
         title: Conspicuous Bystanders
         link: https://www.lcc.edu/radio/m897/archive/Conspicuous_Bystanders.aspx
-        link_text: Link
+        link_text: LCC Site Link
         additional_links:
           - title: Permanent Backup
             icon: far fa-newspaper
@@ -157,7 +170,7 @@ content:
         quote: >
           Conspicuous Bystanders Founding the Genre of "Conspicuous Rock"
         description: | # this will include new lines to allow paragraphs
-          Report for LCC Radio on local Lansing band Conspicuous Bystander. I visited their show and interviewed them after the gig to learn more about their origins and their future as a band.
+          **Click newspaper icon for self-hosted link.** Report for LCC Radio on local Lansing band Conspicuous Bystander. I visited their show and interviewed them after the gig to learn more about their origins and their future as a band.
 # - title: A Little More About Me
 #    layout: text
 #    content: | # this will include new lines to allow paragraphs
