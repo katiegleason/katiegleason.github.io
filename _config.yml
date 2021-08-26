@@ -119,6 +119,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: All Writing Samples
+        link: https://katiegleason.github.io/writing-samples/
+        link_text: Link
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+          See all selected writing samples on a single page by clicking the link at left, or find links to individual writing samples below.
+          
+     content:
+      - layout: right
         title: News Copy
         link: https://katiegleason.github.io/writing-samples/2021-07-13-dunbar/
         link_text: Dunbar Interview Link
@@ -134,7 +143,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Click microphone icons for additional wraps**. These pages include scripts of my most recent work for 1320 WILS reporting on local news and politics. These scripts are **not intended to be read as news articles**; they are copy for radio. However, I include them because I was in charge of researching, writing, and recording the stories from beginning to end. 
     
-      - layout: left
+      - layout: right
         title: Brett Mitchell
         link: https://katiegleason.github.io/writing-samples/2020-03-13-brett-mitchell/
         link_text: Personal Host Link
@@ -147,7 +156,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Report for LCC Radio on local Lansing artist Brett Mitchell. Brett is an old family contact and I was able to interview him as a local musician for LCC Radio. However, the article was never published due to the station's closure during COVID-19.
       
-      - layout: left
+      - layout: right
         title: M897 Artists Update
         link: https://www.lcc.edu/radio/m897/archive/M897_Artist_Update_2020.aspx 
         link_text: LCC Site Link
@@ -160,7 +169,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Click newspaper icon for self-hosted link.** End of the decade update of artists formerly featured on LCC radio spotlight. I followed up with previously featured artists by emailing and interviewing mulitple bands over the course of several weeks to sum up the repsonses in this comprehensive wrap-up piece. 
       
-      - layout: left
+      - layout: right
         title: Conspicuous Bystanders
         link: https://www.lcc.edu/radio/m897/archive/Conspicuous_Bystanders.aspx
         link_text: LCC Site Link
