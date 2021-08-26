@@ -117,15 +117,15 @@ content:
         link_text: 
         additional_links:
           - title: Read 1
-            icon: fa-solid fa-microphone-lines
-            url: https://katiegleason.github.io/
+            icon: fas fa-microphone
+            url: https://katiegleason.github.io/writing-samples/2021-08-05-wrap/
           - title: Read 2
-            icon: fa-solid fa-microphone-lines
-            url: https://katiegleason.github.io/
+            icon: fas fa-microphone
+            url: https://katiegleason.github.io/writing-samples/2021-08-25-wrap/
         quote: >
           News read copy for 1320 WILS
         description: | # this will include new lines to allow paragraphs
-          These pages (click the microphone icons at left!) include scripts of my most recent work for 1320 WILS reporting on local news and politics. These scripts are **not intended to be read as news articles**; they are copy for radio. However, I include them because I was in charge of researching, writing, and recording the stories from beginning to end. 
+          These pages (click the microphone icons!) include scripts of my most recent work for 1320 WILS reporting on local news and politics. These scripts are **not intended to be read as news articles**; they are copy for radio. However, I include them because I was in charge of researching, writing, and recording the stories from beginning to end. 
       
       - layout: left
         title: M897 Artists Update
@@ -134,7 +134,7 @@ content:
         additional_links:
           - title: Permanent Backup
             icon: far fa-newspaper
-            url: https://katiegleason.github.io/
+            url: https://katiegleason.github.io/writing-samples/2020-01-11-spotlight/
         quote: >
           End of the Decade Brings New Beginnings and New Identities
         description: | # this will include new lines to allow paragraphs
@@ -147,7 +147,7 @@ content:
         additional_links:
           - title: Permanent Backup
             icon: far fa-newspaper
-            url: https://katiegleason.github.io/    
+            url: https://katiegleason.github.io/writing-samples/2019-11-08-conspicuous-bystanders/
         quote: >
           Conspicuous Bystanders Founding the Genre of "Conspicuous Rock"
         description: | # this will include new lines to allow paragraphs
