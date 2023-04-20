@@ -99,7 +99,18 @@ content:
 
   - title: Education
     layout: list
-    content:
+    content:      
+      - layout: left
+        title: University of Wisconsin - Oshkosh
+        sub_title: BA English, minor in Radio/Television/Film
+        caption: 2023-present
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+            I have taken relevant coursework in:
+            <mark> English Studies</mark>
+            <mark> Native American Literature</mark>
+            offering me a broad perspective on the interests and needs of a broader imagination of "local community". 
+  
       - layout: left
         title: Lansing Community College
         sub_title: Digital Media Coursework
