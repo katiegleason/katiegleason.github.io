@@ -6,9 +6,8 @@
 version: 2
 
 # Personal info
-name: Kathleen Gleason
-title: Radio Journalist
-email: actualkatiegleason@gmail.com
+name: Kathleen (Katie) Gleason
+email: katiegleason@protonmail.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -52,7 +51,7 @@ twitter_username: katieglive
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/prof_pic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Katie Gleason. I'm a journalist living in Lansing, Michigan, interested in reporting on local and statewide news. My areas of expertise are: 
+  My name is Katie Gleason. I'm a student and freelance journalist living in Appleton, Wisconsin, interested in reporting on local and statewide news. My areas of expertise are: 
     <mark>Local Politics</mark> 
     <mark>Local Culture</mark>. 
 
@@ -71,7 +70,7 @@ content:
       - layout: left
         title: MacDonald Broadcasting
         sub_title: News Anchor
-        caption: November 2020 - Present
+        caption: November 2020 - January 2022
         link: 
         quote: >
           Local AM radio station.
